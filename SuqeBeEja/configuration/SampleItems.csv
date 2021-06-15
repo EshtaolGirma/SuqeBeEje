@@ -1,0 +1,3 @@
+Name, Price, Sub_Dep, Quantity, Provider, Brand, Manufacturer, Length, Width, Height, Weight, Date_Published, Condition, Is_Featured,Features,Description
+iPhone 12,1200,22,10,1,iPhone,apple,2,3,2,1,2021-06-10,OLD,day,[good, bad, worse],nice job
+box,1,48,1000,2,amazon,amazon LPC,10,10,10,0.4,2021-06-10,NEW,not,[good, nice],wonderful
